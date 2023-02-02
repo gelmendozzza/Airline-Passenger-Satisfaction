@@ -1,4 +1,6 @@
 # Airline-Passenger-Satisfaction
+![alt txt](Airline passenger satisfaction cover.png)
+
 Maven Analytics - Airline passenger satisfaction - Insight and exploratory data analysis
 
 Fos this project, I was given a data set with customer satisfaction scores from 120,000+ airline passengers, including additional information about each passenger, their flight, and type of travel, as well as ther evaluation of different factors like cleanliness, comfort, service, and overall experience.
