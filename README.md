@@ -1,5 +1,5 @@
 # Airline-Passenger-Satisfaction
-![alt txt](Airline passenger satisfaction cover.png)
+![alt txt](https://github.com/gelmendozzza/Airline-Passenger-Satisfaction/blob/main/Airline%20passenger%20satisfaction%20cover.png)
 
 Maven Analytics - Airline passenger satisfaction - Insight and exploratory data analysis
 
